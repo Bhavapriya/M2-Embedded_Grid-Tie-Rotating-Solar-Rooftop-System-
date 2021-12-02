@@ -1,0 +1,23 @@
+4 W'S:
+
+WHO:
+
+Anyone can setup this sytem in their building.
+
+WHEN:
+
+Whenever the person wants to setup this system. (i.e) At anytime and anywhere.
+
+WHY:
+
+To maximize solar energy production and power consumption will be reduced.
+
+WHAT:
+
+The energy from the solar panel is stored in battery which is then used to power the home or office.The remaning energy is then returned to the power station through the gird tie system.
+
+1H:
+
+HOW:
+
+This project is based on atmega 328P. This controller contols the solar panel by rotating it according to the position of sun. These energy from the solar panel is then stored in battery which is then used to power the home or office.

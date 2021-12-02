@@ -1,0 +1,11 @@
+HIGH LEVEL REQUIREMENTS:
+
+The rotating solar system generates more electricity.
+To maimise solar energy production.
+This System can be steup in home or office and can be used for our daily needs.
+A person with proper knowledge about this system only can design this system.
+LOW LEVEL REQUIREMENTS:
+
+Maintenance is high.
+Cost is high.
+It can be used only in warmer climates.

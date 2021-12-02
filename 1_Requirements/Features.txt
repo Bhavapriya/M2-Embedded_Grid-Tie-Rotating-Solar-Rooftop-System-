@@ -1,0 +1,3 @@
+FEATURES:
+
+This project is based on atmega 328P. This controller contols the solar panel by rotating it according to the position of sun. These energy from the solar panel is then stored in battery which is then used to power the home or office.The remaning energy is then returned to the power station through the gird tie system. Hence with the help of these project lots of Power consumption will be reduced.
